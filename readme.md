@@ -42,4 +42,4 @@ This project uses the following Go module:
 - [go-say-hello](https://github.com/mhaatha/go-say-hello) - A simple module that provides a function to greet the user.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/mhaatha/go-say-hello/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mhaatha/app-say-hello/blob/main/LICENSE) file for details.
